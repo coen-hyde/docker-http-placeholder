@@ -1,7 +1,7 @@
 Placeholder
 ===========
 
-Just docker image that responds to all http requests
+Just a docker image that responds to all http requests
 
 ## Usage
 
